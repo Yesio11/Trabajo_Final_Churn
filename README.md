@@ -91,5 +91,3 @@ Si planeas realizar cambios en el proyecto y versionarlos, asegúrate de configu
 - [Documentación de Python](https://docs.python.org/3/)
 - [Documentación de Git](https://git-scm.com/doc)
 
-¡Listo! Siguiendo estos pasos podrás replicar el proyecto en tu entorno local utilizando Visual Studio Code.
-```

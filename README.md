@@ -66,7 +66,7 @@ Según el análisis, se proponen las siguientes recomendaciones:
 * scikit-learn
 * Plotly
 
-## Autor
+## Autores
 
 
-Yesio11
+Yesio11 / julianruiz1420
